@@ -52,8 +52,8 @@ xaringanExtra::use_clipboard()
 library(metathis)
 meta() %>%
   meta_general(
-    description = "The first presentation of the NCSA-CCSSO 2022 Session on COVID-19 Academic Impact and Recovery",
-    subject = "Building and Distributing R Packages Using GitHub",
+    description = "Presentation on COVID-19 Academic Impact and Recovery given as part of NCSA-CCSSO 2022 Conference, Atlanta Georgia",
+    subject = "COVID-19 Academic Impact and Recovery",
     generator = "xaringan and remark.js",
     theme_color = "#b6e202"
   ) %>% 
@@ -61,7 +61,7 @@ meta() %>%
   meta_social(
     title = "COVID-19 Academic Impact and Recovery • NCSA-CCSSO 2022 • Damian Betebenner",
     url = "https://centerforassessment.github.io/NCSA_CCSSO_2022_Covid_19_Impact/Covid_Academic_Impact_and_Recovery",
-    image = "https://centerforassessment.github.io/NCSA_CCSSO_2022_Covid_19_Impact/Figures/TITLE_SLIDE_image.png",
+    image = "https://github.com/dbetebenner/NCSA_CCSSO_2022_Covid_19_Impact/raw/main/docs/Figures/TITLE_SLIDE_image.png",
     image_alt = "Title slide for Building & Distributing R Packages Using GitHub presentation",
     og_type = "article",
     og_locale = "en_US",
