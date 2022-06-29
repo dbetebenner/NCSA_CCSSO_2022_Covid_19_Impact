@@ -133,7 +133,7 @@ class: center, middle
 
 ### [Focusing State Educational Accountability Systems: Four Methods of Judging School Quality and Progress](https://www.nciea.org/sites/default/files/publications/Dale020402.pdf)
 
-```{r echo=FALSE, out.width="70%", fig.align="center"}
+```{r echo=FALSE, out.width="60%", fig.align="center"}
 magick::image_read_pdf("Figures/Carlson_Four_Quadrant_Figure.pdf")
 ```
 
